@@ -1,1 +1,1 @@
-# 4-1-studysave / del will acceptable
+# 4-1-studysave / removavle repository
